@@ -1,0 +1,6 @@
+﻿# Ignora arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+*.vsidx
+*.VC.db
